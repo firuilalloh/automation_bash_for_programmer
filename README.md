@@ -1,7 +1,6 @@
 ## mtsinstaller.sh
 - Ver: 0.0.1 (Demo)
-    > [!NOTE]
-    > Operating System (Debian / Ubuntu)
+    - Operating System (Debian / Ubuntu)
     - update & upgrade system
     - git installer, checker and updater
     - snap installer and checker
